@@ -2,7 +2,6 @@
 const myName = document.getElementById("myName")
 const myClock = document.getElementById("myClock")
 
-
 // Sayfa yüklenirken Kullanıcıdan İsmini isteyip DOM'a yazan fonksiyon
 function askName(){
     const getName = prompt("İsminizi Giriniz")
